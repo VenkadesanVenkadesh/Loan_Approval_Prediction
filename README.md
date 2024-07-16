@@ -39,8 +39,9 @@
 
         - Evaluate the performance of the model:
         
-    - Use metrics such as accuracy, precision, recall, F1-score, 
+               - Use metrics such as accuracy, precision, recall, F1-score, 
     
-    - Compare the performance of different models
-
-    -visualize the data via plots for better understanding
+               - Compare the performance of different models
+ 
+               -visualize the data via plots for better understanding
+               
